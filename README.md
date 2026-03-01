@@ -19,8 +19,8 @@ The goal of this analysis was to:
 - Provide strategic, data-driven recommendations for sustainable growth
 
 All data preparation, modeling, validation, and visualization were completed in Microsoft Excel.
+[view the Interactive Dashboard here](<https://github.com/Rofiat-Adebayo/Revenue-Optimization-Sales-Concentration-Analysis-D-Lite-Electronics/blob/main/di-lite%20electronic%20Repoort.xlsx>)
 
----
 
 # 🧹 Data Challenges & Cleaning Process
 
@@ -49,7 +49,7 @@ The raw dataset contained real-world inconsistencies typical of operational sale
 <img width="1874" height="898" alt="Screenshot 2026-02-28 061453" src="https://github.com/user-attachments/assets/26cc58dd-81e9-4634-bc44-55d056614fab" />
 
 
----
+
 
 ## 🛠 Cleaning & Validation Steps (Excel-Based)
 
@@ -65,7 +65,9 @@ The raw dataset contained real-world inconsistencies typical of operational sale
 
 This ensured reliable aggregation and accurate insight generation.
 
----
+<img width="1887" height="885" alt="Screenshot 2026-02-28 063414" src="https://github.com/user-attachments/assets/f71a48de-9127-40a4-b742-b569e1d84750" />
+
+
 
 # 📊 Business Snapshot (Reporting Period)
 
@@ -80,9 +82,10 @@ This ensured reliable aggregation and accurate insight generation.
 
 # 🖥 Dashboard Preview
 
-*(Insert Screenshot Here)*
 
----
+<img width="690" height="360" alt="dlite electronics" src="https://github.com/user-attachments/assets/c90bfffd-56a9-41be-9a03-48a495076e87" />
+
+
 
 # 🔍 Key Executive Takeaways
 
@@ -92,11 +95,8 @@ This ensured reliable aggregation and accurate insight generation.
 
 3️⃣ Geographic and customer diversification represent the largest strategic growth opportunities.
 
----
 
-# 📈 Insights Deep Dive
-
----
+#  Insights Deep Dive
 
 ## 🟦 Revenue & Monthly Trends
 
@@ -107,7 +107,6 @@ This ensured reliable aggregation and accurate insight generation.
 
 **Implication:** Institutionalizing peak-performance strategies can stabilize revenue.
 
----
 
 ## 🟦 Sales Representative Performance
 
@@ -124,7 +123,6 @@ This ensured reliable aggregation and accurate insight generation.
 
 **Implication:** Structured knowledge transfer and performance alignment can improve total revenue.
 
----
 
 ## 🟦 Product Portfolio Analysis
 
