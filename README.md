@@ -5,7 +5,22 @@
 ![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Focus](https://img.shields.io/badge/Focus-Sales%20Analytics-blue)
 
----
+
+## 📑 Table of Contents
+
+- [Executive Snapshot](#-executive-snapshot)
+- [Business Problem](#-business-problem)
+- [Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [Dashboard Overview](#-dashboard-overview)
+- [Key Insights](#-key-insights)
+  - [Revenue Trends](#-revenue-trends)
+  - [Sales Performance](#-sales-performance)
+  - [Product Analysis](#-product-analysis)
+  - [Regional & Customer Risk](#-regional--customer-risk)
+- [Strategic Recommendations](#-strategic-recommendations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Conclusion](#-conclusion)
+
 
 ## 📌 Project Overview
 
@@ -154,9 +169,9 @@ Lower-performing SKUs show limited turnover.
 
 **Implication:** Geographic expansion and customer diversification are critical for scalable growth.
 
----
 
-# 🚀 Strategic Recommendations
+
+#  Strategic Recommendations
 
 1. Replicate February’s high-performing sales drivers.
 2. Standardize top-performing sales methodologies across team.
@@ -164,7 +179,16 @@ Lower-performing SKUs show limited turnover.
 4. Reduce revenue dependency on major customers.
 5. Optimize product mix based on turnover performance.
 
----
+##  Skills Demonstrated
+
+- Data Cleaning & Standardization (Excel)
+- Pivot Table Modeling
+- Revenue & Contribution Analysis
+- Business Risk Identification
+- Performance Benchmarking
+- Dashboard Design & Visualization
+- Strategic Insight Communication
+
 
 # 🏁 Conclusion
 
