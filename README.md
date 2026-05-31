@@ -3,6 +3,7 @@
 
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Tool](https://img.shields.io/badge/Tool-SQL-blue)
 ![Focus](https://img.shields.io/badge/Focus-Sales%20Analytics-blue)
 
 
@@ -68,6 +69,7 @@ The raw dataset contained real-world inconsistencies typical of operational sale
 
 ## 🛠 Cleaning & Validation Steps (Excel-Based)
 
+- Extracted and queried sales datasets using SQL
 - Standardized region names using PROPER/UPPER functions
 - Normalized product naming for accurate aggregation
 - Unified category labels to prevent pivot fragmentation
@@ -181,6 +183,7 @@ Lower-performing SKUs show limited turnover.
 
 ##  Skills Demonstrated
 
+- SQL Querying & Data Extraction
 - Data Cleaning & Standardization (Excel)
 - Pivot Table Modeling
 - Revenue & Contribution Analysis
@@ -192,6 +195,6 @@ Lower-performing SKUs show limited turnover.
 
 # 🏁 Conclusion
 
-This project demonstrates structured data cleaning, analytical modeling, and business interpretation using Excel. Beyond visualization, the analysis identifies concentration risks and provides actionable strategies for sustainable revenue growth.
+This project demonstrates structured data cleaning, analytical modeling, and business interpretation using Exceland SQL. Beyond visualization, the analysis identifies concentration risks and provides actionable strategies for sustainable revenue growth.
 
 The dashboard serves as a decision-support tool for revenue optimization, performance alignment, and strategic planning.
