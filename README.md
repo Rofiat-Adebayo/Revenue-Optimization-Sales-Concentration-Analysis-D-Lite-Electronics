@@ -2,8 +2,7 @@
 # 📊 D-Lite Electronics Sales Performance Dashboard
 
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
-![Tool](https://img.shields.io/badge/Tool-SQL-blue)
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-blue)
 ![Focus](https://img.shields.io/badge/Focus-Sales%20Analytics-blue)
 
 
