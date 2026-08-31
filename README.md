@@ -3,8 +3,6 @@
 
 ### ₦303M in revenue looked strong. But how much of that performance depended on a small number of customers, regions, and sales representatives?
 
-<img width="1887" height="885" alt="Screenshot 2026-02-28 063414" src="https://github.com/user-attachments/assets/f71a48de-9127-40a4-b742-b569e1d84750" />
-
 
 **An analytical investigation into revenue performance, sales concentration, product demand, and growth opportunities at D-Lite Electronics.**
 
